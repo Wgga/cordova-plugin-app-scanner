@@ -1,0 +1,40 @@
+{
+  "name": "cordova-plugin-appscanner",
+  "version": "1.0.2",
+  "description": "Cordova Scan Plugin",
+  "cordova": {
+    "id": "cordova-plugin-appscanner",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wgga/cordova-plugin-appscanner"
+  },
+  "keywords": [
+    "cordova",
+    "scan",
+    "ecosystem:cordova",
+    "cordova-firefoxos",
+    "cordova-tizen",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-ubuntu",
+    "cordova-ios",
+    "cordova-blackberry10",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows8",
+    "cordova-windows",
+    "cordova-browser",
+    "cordova-osx"
+  ],
+  "author": "Wgga",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Wgga/cordova-plugin-appscanner/issues"
+  },
+  "homepage": "https://github.com/Wgga/cordova-plugin-appscanner#readme"
+}

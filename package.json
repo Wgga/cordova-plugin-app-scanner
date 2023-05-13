@@ -32,7 +32,7 @@
     "cordova-osx"
   ],
   "author": "Wgga",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/Wgga/cordova-plugin-app-scanner/issues"
   },

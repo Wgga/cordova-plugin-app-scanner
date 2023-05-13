@@ -19,3 +19,6 @@
 #
 -->
 # Release Notes
+### 1.0.1 (May 9, 2023)
+* removed extraneous statement
+* Update static resource files

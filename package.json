@@ -1,9 +1,9 @@
 {
   "name": "cordova-plugin-app-scanner",
-  "version": "1.0.1",
+  "version": "1.1.3",
   "description": "Cordova Scan Plugin",
   "cordova": {
-    "id": "cordova-plugin-app-scanner",
+    "id": "cordova-plugin-scan",
     "platforms": [
       "android",
       "ios"
@@ -31,7 +31,7 @@
     "cordova-browser",
     "cordova-osx"
   ],
-  "author": "Wgga",
+  "author": "shadow",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/Wgga/cordova-plugin-app-scanner/issues"

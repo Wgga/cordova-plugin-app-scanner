@@ -26,8 +26,7 @@
 	<description>Cordova Scan Plugin</description>
 	<license>Apache-2.0</license>
 	<keywords>cordova,scan</keywords>
-	<repo>https://github.com/abcxofucksharonnywu/cordova-plugin-scan.git</repo>
-	<issue>https://issues.apache.org/jira/browse/CB/component/12320648</issue>
+	<repo>https://github.com/Wgga/cordova-plugin-app-scanner.git</repo>
 
 	<js-module src="www/scan.js" name="scan">
 		<clobbers target="scan" />
